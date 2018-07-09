@@ -1,0 +1,6 @@
+{
+    "deviceOrientation": "portrait",
+    "showStatusBar":"true",
+    "openDataContext": "myOpenDataContext"
+
+}
